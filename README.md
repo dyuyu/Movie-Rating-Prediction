@@ -27,8 +27,8 @@ Moreover, the most important genres for the response are **“Comedy”, “Horr
 “Action”, and “Adventure”.**
 
 
-Here's a link of the data set --> 
-https://grouplens.org/datasets/movielens/
+**Here's a link of the data set --> 
+https://grouplens.org/datasets/movielens/**
 
 Authors
 -------------
