@@ -19,7 +19,7 @@ We found that Lasso gives the best accuracy for predicting the average movie rat
 
 
 As for the best predictors throughout the whole data set, out of the 21 predictors used
-the best subset were **“Year”, “Number.of.ratings”, “Action”, “Adventure”, “Children”,
+**the best subset** were **“Year”, “Number.of.ratings”, “Action”, “Adventure”, “Children”,
 “Comedy”, “Film.Noir”, and “Horror” in which “Year”, “Number.of.ratings”** showed to have
 the highest significance from the Linear regression, Best Subset, and Boosting summaries.
 Which in real life, it makes a lot of sense that these predictors will affect the response.
